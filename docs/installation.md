@@ -96,6 +96,7 @@ sudo nano /etc/netplan/00-installer-config.yaml
   <em align="center"> Static IP Configuration UBUNTU SERVER </em>
 </p>
 <br>
+
 ### Connectivity Verification
 
 Verify network connectivity by:
