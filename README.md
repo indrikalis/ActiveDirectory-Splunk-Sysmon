@@ -28,11 +28,11 @@ and analyzes the generated logs using Splunk dashboards.
 - xfreerdp
 
 ## 📂 Documentation
-- [Installation Guide]()
-- [Configuration]()
+- [Installation Guide](docs/installation.md)
+- [Configuration](docs/configuration.md)
 - [Attack Simulation](docs/attack_simulation.md)
-- [Detection & Analysis]()
-- [Conclusion]()
+- [Detection & Analysis](docs/detection-analysis.md)
+- [Conclusion](docs/conclusion.md)
 
 ## ⚠ Disclaimer
 This project is created **for educational and authorized lab purposes only**.
