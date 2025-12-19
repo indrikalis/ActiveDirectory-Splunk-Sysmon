@@ -30,7 +30,7 @@ and analyzes the generated logs using Splunk dashboards.
 ## 📂 Documentation
 - [Installation Guide]()
 - [Configuration]()
-- [Attack Simulation]()
+- [Attack Simulation](docs/attack_simulation.md)
 - [Detection & Analysis]()
 - [Conclusion]()
 
